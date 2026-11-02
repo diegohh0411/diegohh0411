@@ -2,3 +2,5 @@ Computer Science student skilled in TypeScript and strongly typed languages, see
 Driven by responsibility and motivated by a desire to learn, I bring a proactive attitude to tackling challenging projects.
 
 [![Diego's GitHub stats](https://github-readme-stats.vercel.app/api?username=diegohh0411)](https://github.com/anuraghazra/github-readme-stats)
+
+<img src="koi/koi.gif" width="256" alt="My koi, grown from my GitHub activity" />
